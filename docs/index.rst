@@ -17,7 +17,7 @@ Contents:
    Funtionalarchitecture
    contributing
    history
-   installation
+   overview
    
 ..   *
 
