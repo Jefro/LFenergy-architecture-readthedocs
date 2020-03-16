@@ -1,0 +1,8 @@
+nav:
+    - 'index.rst'
+    - 'Introduction.rst'
+    - 'Funtionalarchitecture.rst'
+    - 'authors.rst'
+    - 'contributing.rst'
+      - 'history.rst'
+      - 'installation.rst'
