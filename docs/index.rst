@@ -13,7 +13,6 @@ Contents:
    :hidden:
 
    index <self>
-   introduction
    Funtionalarchitecture
    contributing
    history
