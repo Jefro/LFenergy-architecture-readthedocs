@@ -17,4 +17,4 @@ License
 
 The documentation is publisched under de Creative commons 4.0 License
 
-
+Readthedocs is licensed under the MIT License
