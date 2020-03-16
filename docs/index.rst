@@ -12,7 +12,7 @@ Contents:
    :maxdepth: 2
    :glob:
 
-   index
+   index <self>
    introduction
    Funtionalarchitecture
    contributing
