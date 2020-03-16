@@ -12,7 +12,13 @@ Contents:
    :maxdepth: 2
    :glob:
 
-   *
+   index
+   Funtionalarchitecture
+   contributing
+   history
+   installation
+   
+..   *
 
 
 
