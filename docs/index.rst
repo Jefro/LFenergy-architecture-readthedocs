@@ -13,6 +13,7 @@ Contents:
    :glob:
 
    index
+   introduction
    Funtionalarchitecture
    contributing
    history
